@@ -1,0 +1,13 @@
+
+public class Array {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String username = "sampleUsername";
+		String password = "samplePassword";
+		String email = "sampleEmailID";
+		String zip = "12345";
+		
+	}
+
+}

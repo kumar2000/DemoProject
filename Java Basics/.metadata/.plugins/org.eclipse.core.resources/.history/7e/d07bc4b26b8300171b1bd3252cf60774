@@ -1,0 +1,27 @@
+package com.sample;
+
+public class Class1 {
+	
+	int a = 100;
+	char c = 'A';
+	
+	void sampleMethod() {
+		System.out.println("My name is a sample method!");
+		System.out.println(a);
+		System.out.println(c);
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("This is a Greeting Message");
+		
+		Class1 c1 = new Class1();
+		c1.sampleMethod();
+		System.out.println(c1.a);
+		System.out.println(c1.c);
+		
+	}
+	
+
+}
+
