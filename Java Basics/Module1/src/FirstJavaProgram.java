@@ -20,6 +20,8 @@ public class FirstJavaProgram {
 		System.out.println(b1);
 		System.out.println(b2);
 		
+		/*
+		
 		int a = 1000000000;
 		int b = 0;
 		System.out.println(a);
@@ -44,6 +46,8 @@ public class FirstJavaProgram {
 		
 		boolean e = true;
 		System.out.println(e);
+		
+		*/
 		
 		String s = "I am learning the Java Basics for Selenium Testing Course!";
 		System.out.println(s);
